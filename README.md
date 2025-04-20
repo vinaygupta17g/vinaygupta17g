@@ -1,4 +1,4 @@
-👋 Hi, I'm Vinay!
+👋 Hi, I'm Vinay Kumar!
 💻 Android Developer  🚀 Passionate about building REST API and Mobile Apps.Building smart solution with mobile apps & APIs
 🛠️ Tech Stack:
 - Languages: Java,JavaScript
