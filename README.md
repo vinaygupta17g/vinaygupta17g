@@ -3,9 +3,9 @@
 
 🛠️ Tech Stack:
 - Languages: Java,JavaScript
-- Frameworks: Spring Boot, Android SDK
+- Frameworks: Spring Boot, Android SDK,Nodejs
 - Tools: GitHub, Android Studio
-- Databases: MySQL, Firebase
+- Databases: MySQL, Firebase, MOngodb
 
 🔥 Projects:
 - 💬 ChatApp – A seamless messaging platform
@@ -15,7 +15,7 @@
 
 ✨ What I Love:
 - Developing intuitive & scalable Android apps
-- Crafting efficient APIs with Spring Boot
+- Crafting efficient APIs with Spring Boot & node js
 - Exploring space-tech & satellite navigation
 
 
