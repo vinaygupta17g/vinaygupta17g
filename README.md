@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100057895029243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Vinay Kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/vinaykumar17g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinaykumar17g" height="30" width="40" /></a>
-<a href="https://github.com/vinaygupta17g" target="blank"><img align="center" src="http://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="vinaygupta17g" height="30" width="40" /></a>
+<a href="https://github.com/vinaygupta17g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vinaygupta17g" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vinay-kumar-184320251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-kumar-184320251" height="30" width="40" /></a>
 </p>
 
